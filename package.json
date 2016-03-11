@@ -1,0 +1,12 @@
+{
+  "name": "Sample_Express",
+  "description": "Sample Express Application to test out using Package.json to install dependencies",
+  "dependencies": {
+    "body-parser": "^*",
+    "cookie-parser": "^1.4.1",
+    "ejs": "*",
+    "express": "*",
+    "express-session": "^1.13.0",
+    "socket.io": "*"
+  }
+}
